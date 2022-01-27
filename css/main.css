@@ -1,0 +1,7 @@
+.itemtitle {
+	color: var(--color-text-dimmed);
+}
+
+.itemdescription {
+	color: var(--color-text-bright);
+}
